@@ -1,0 +1,5 @@
+output.drawing.file = sample.svg
+output.drawing.format = Svg
+input.tree.file = phylo_sequence.dnd
+input.tree.format = Newick
+

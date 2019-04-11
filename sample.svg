@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD Svg 1.1//EN"
+"http://www.w3.org/Graphics/Svg/1.1/DTD/svg11.dtd">
+<svg width="10" height="20" version="1.1"
+ xmlns="http://www.w3.org/2000/svg"
+ >
+<g transform="translate(-0,-0)">
+<g id="layer-1" >
+<text x="10" y="0" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >EU496374_1_Sotalia_fluviatilis_voucher_SEFSC_MMMGL_Igeo084_cytochrome_oxidase_subunit_I__cox1__gene__partial_cds__mitochondrial EU496374</text>
+<line x1="0" y1="0" x2="10" y2="0" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="10" y="10" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >JF443290_1_Monodon_monoceros_voucher_HBL008320_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitochondrial JF443290</text>
+<line x1="0" y1="10" x2="10" y2="10" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="10" y="20" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >KF281660_1_Hyperoodon_ampullatus_voucher_ha311000_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitochondrial KF281660</text>
+<line x1="0" y1="20" x2="10" y2="20" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="0" y1="0" x2="0" y2="20" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="0" y1="10" x2="0" y2="10" style="stroke:rgb(0,0,0);stroke-width:1" />
+</g>
+</g>
+</svg>
