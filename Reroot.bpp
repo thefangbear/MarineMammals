@@ -1,0 +1,9 @@
+
+input.list.file = ./phylo_sequence.dnd
+# [input|consensus]
+tree = input
+outgroups.file = ./outgroup_keys.txt
+# yes = the unrootable trees are printed as unrooted in the output.tree.file
+# no = the unrootable trees are not printed in the output.tree.file
+print.option = no
+output.trees.file = phylo_sequence_rooted.dnd
