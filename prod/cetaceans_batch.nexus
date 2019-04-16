@@ -1,0 +1,11 @@
+#NEXUS
+begin mrbayes;
+  set autoclose=yes nowarn=yes;
+  execute cetaceans.nexus;
+  lset nst=6 rates=gamma;
+  mcmc nruns=10 ngen=10000 samplefreq=10 file=cetaceans.nexus1;
+# mcmc file=cetaceans.nexus2;
+#  mcmc file=cetaceans.nexus3;
+  sumt;
+  sump;
+end;
