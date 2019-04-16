@@ -1,0 +1,8 @@
+# Log likelihood = -10034.86883736220261198469
+# Number of sites = 795
+
+# Substitution model parameters:
+model=HKY85(kappa=19.666195810885,theta=0.389747813358,theta1=0.577066422342,theta2=0.249495732266)
+
+# Rate distribution parameters:
+rate_distribution=Gamma(n=4,alpha=0.112281881948, Gamma.beta=alpha)

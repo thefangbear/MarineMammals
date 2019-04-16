@@ -1,0 +1,74 @@
+KF281614 :Odonticeti:Risso's Dolphin
+MF929074 :Odonticeti:Dwarf Sperm Whale
+JF443290 :Odonticeti:Narwhal
+JF443227 :Odonticeti:Beluga Whale
+KF281697 :Odonticeti:Cuvier's Beaked Whale
+KF281695 :Odonticeti:Striped Dolphin
+KF281694 :Odonticeti:Sperm Whale
+KF281693 :Odonticeti:Harbour Porpoise
+KF281662 :Odonticeti:Atlantic White-Sided Dolphin
+KF281660 :Odonticeti:Northern Bottlenose Whale
+KF281612 :Odonticeti:Saddleback Dolphin
+JF442791 :Odonticeti:Dall's Porpoise
+JF442786 :Odonticeti:Stejneger's Beaked Whale
+KP993088 :Odonticeti:Indo-Pacific Finless Porpoise
+EU496375 :Odonticeti:Rough-Toothed Dolphin
+EU496374 :Odonticeti:Gray Dolphin
+EU496359 :Odonticeti:Boutu
+EU496358 :Odonticeti:Franciscana
+EU496345 :Odonticeti:Indo-Pacific Humpbacked Dolphin
+EU496330 :Odonticeti:Indo-Pacific Bottlenose Dolphin
+EU496323 :Odonticeti:Killer Whale
+EU496322 :Odonticeti:False Killer Whale
+EU496313 :Odonticeti:Gervais' Beaked Whale
+EU496306 :Odonticeti:Long-Finned Pilot Whale
+EU496294 :Odonticeti:Melon-Headed Whale
+EU496290 :Odonticeti:Pygmy Killer Whale
+JN190944 :Mysticeti:pygmy Bride's whale
+EU496284 :Mysticeti:sei whale
+MH638371 :Mysticeti:Bryde's whale
+EU496282 :Mysticeti:Fin whale
+KX254410 :Mysticeti:Omura's baleen whale
+EU139285 :Mysticeti:Humpback whale
+MH046943 :Mysticeti:Gray whale
+KY661881 :NA:Pig
+JF443495 :NA:Reindeer
+HQ860420 :NA:Cattle
+JF443355 :NA:Sheep
+HQ644102 :NA:Blue Duiker
+DQ379323 :NA:Chinese Water Deer
+HQ644090 :NA:Peter's Duiker
+JF443326 :NA:White-Tailed Deer
+KM527375 :NA:Chamois
+JF443182 :NA:American Moose
+FJ402869 :NA:Red deer
+DQ312341 :NA:Horse
+KF430645 :NA:Dugong
+EU728522 :Pinnipeds:Walrus
+EU728494 :Pinnipeds:Laptev walrus
+EU139295 :Pinnipeds:Ringed seal
+JF443365 :Pinnipeds:Harbor seal
+JF443363 :Pinnipeds:Spotted seal
+JF443362 :Pinnipeds:Harp seal
+JF443244 :Pinnipeds:Grey seal
+JF443236 :Pinnipeds:Bearded seal
+EU139276 :Pinnipeds:Northern fur seal
+MH129556 :NA:European rabbit
+KU759785 :NA:Desert cottontail rabbit
+KU759783 :NA:Bush rabbit I
+KU759781 :NA:Bush rabbit II
+KU759780 :NA:Bush rabbit III
+KU759772 :NA:Bush rabbit IV
+JF444946 :NA:Tapeti rabbit
+JF443207 :NA:Dog
+JF443554 :NA:Arctic fox
+JF443521 :NA:Gray fox
+KY315492 :NA:Short-tailed mongoose
+MH290787 :NA:Tiger
+JF443539 :NA:American black bear
+MG720015 :NA:Asian black bear
+JF443549 :NA:Polar bear
+JF499381 :NA:Brown bear
+DQ093081 :NA:Giant panda
+NC_000889:NA:Hippopotamus
+

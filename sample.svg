@@ -1,19 +1,187 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD Svg 1.1//EN"
 "http://www.w3.org/Graphics/Svg/1.1/DTD/svg11.dtd">
-<svg width="10" height="20" version="1.1"
+<svg width="210" height="440" version="1.1"
  xmlns="http://www.w3.org/2000/svg"
  >
 <g transform="translate(-0,-0)">
 <g id="layer-1" >
-<text x="10" y="0" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >EU496374_1_Sotalia_fluviatilis_voucher_SEFSC_MMMGL_Igeo084_cytochrome_oxidase_subunit_I__cox1__gene__partial_cds__mitochondrial EU496374</text>
-<line x1="0" y1="0" x2="10" y2="0" style="stroke:rgb(0,0,0);stroke-width:1" />
-<text x="10" y="10" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >JF443290_1_Monodon_monoceros_voucher_HBL008320_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitochondrial JF443290</text>
-<line x1="0" y1="10" x2="10" y2="10" style="stroke:rgb(0,0,0);stroke-width:1" />
-<text x="10" y="20" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >KF281660_1_Hyperoodon_ampullatus_voucher_ha311000_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitochondrial KF281660</text>
-<line x1="0" y1="20" x2="10" y2="20" style="stroke:rgb(0,0,0);stroke-width:1" />
-<line x1="0" y1="0" x2="0" y2="20" style="stroke:rgb(0,0,0);stroke-width:1" />
-<line x1="0" y1="10" x2="0" y2="10" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="0" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Harbour_Porpoise_KF281693_1_Phocoena_phocoena_voucher_Pp190111_cytochrome_oxidase_subunit_1__COI__gene__partial_cds</text>
+<line x1="200" y1="0" x2="210" y2="0" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="10" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Narwhal_JF443290_1_Monodon_monoceros_voucher_HBL008320_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitoch</text>
+<line x1="200" y1="10" x2="210" y2="10" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="200" y1="0" x2="200" y2="10" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="5" x2="200" y2="5" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="20" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Cuvier's_Beaked_Whale_KF281697_1_Ziphius_cavirostris_voucher_zc301109_cytochrome_oxidase_subunit_1__COI__gene__part</text>
+<line x1="200" y1="20" x2="210" y2="20" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="30" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Northern_Bottlenose_Whale_KF281660_1_Hyperoodon_ampullatus_voucher_ha311000_cytochrome_oxidase_subunit_1__COI__gene</text>
+<line x1="200" y1="30" x2="210" y2="30" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="200" y1="20" x2="200" y2="30" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="25" x2="200" y2="25" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="5" x2="190" y2="25" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="180" y1="15" x2="190" y2="15" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="40" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Gray_Dolphin_EU496374_1_Sotalia_fluviatilis_voucher_SEFSC_MMMGL_Igeo084_cytochrome_oxidase_subunit_I__cox1__gene__p</text>
+<line x1="180" y1="40" x2="210" y2="40" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="180" y1="15" x2="180" y2="40" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="170" y1="27.5" x2="180" y2="27.5" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="50" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Striped_Dolphin_KF281695_1_Stenella_coeruleoalba_voucher_sc091210_cytochrome_oxidase_subunit_1__COI__gene__partial_</text>
+<line x1="170" y1="50" x2="210" y2="50" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="170" y1="27.5" x2="170" y2="50" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="160" y1="38.75" x2="170" y2="38.75" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="60" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Mysticeti__Humpback_whale_EU139285_1_Megaptera_novaeangliae_voucher_UAM_Mamm_30661_cytochrome_oxidase_subunit_I__COI__gene__par</text>
+<line x1="200" y1="60" x2="210" y2="60" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="70" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >NA__Chamois_KM527375_1_Rupicapra_rupicapra_voucher_1-PMF-JC-001_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitochond</text>
+<line x1="200" y1="70" x2="210" y2="70" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="200" y1="60" x2="200" y2="70" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="65" x2="200" y2="65" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="80" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Beluga_Whale_JF443227_1_Delphinapterus_leucas_voucher_HBL008274_cytochrome_oxidase_subunit_1__COI__gene__partial_cd</text>
+<line x1="190" y1="80" x2="210" y2="80" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="65" x2="190" y2="80" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="180" y1="72.5" x2="190" y2="72.5" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="90" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Atlantic_White-Sided_Dolphin_KF281662_1_Lagenorhynchus_acutus_voucher_La190711_cytochrome_oxidase_subunit_1__COI__g</text>
+<line x1="180" y1="90" x2="210" y2="90" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="180" y1="72.5" x2="180" y2="90" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="160" y1="81.25" x2="180" y2="81.25" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="160" y1="38.75" x2="160" y2="81.25" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="10" y1="60" x2="160" y2="60" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="100" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__False_Killer_Whale_EU496322_1_Pseudorca_crassidens_voucher_SEFSC_MMMGL_Pcra004_cytochrome_oxidase_subunit_I__cox1__</text>
+<line x1="40" y1="100" x2="210" y2="100" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="110" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Rough-Toothed_Dolphin_EU496375_1_Steno_bredanensis_voucher_SEFSC_MMMGL_Sbre003_cytochrome_oxidase_subunit_I__cox1__</text>
+<line x1="80" y1="110" x2="210" y2="110" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="120" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >NA__Horse_DQ312341_1_Equus_caballus_pop-variant_1_cytochrome_oxidase_subunit_2_gene__partial_cds__mitochondrial</text>
+<line x1="150" y1="120" x2="210" y2="120" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="130" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >NA__Blue_Duiker_HQ644102_1_Philantomba_monticola_voucher_DKME01_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitochond</text>
+<line x1="170" y1="130" x2="210" y2="130" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="140" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >NA__Reindeer_JF443495_1_Rangifer_tarandus_voucher_HBL008279_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitochondrial</text>
+<line x1="200" y1="140" x2="210" y2="140" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="150" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >NA__American_Moose_JF443182_1_Alces_americanus_voucher_HBL008220_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitochon</text>
+<line x1="200" y1="150" x2="210" y2="150" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="200" y1="140" x2="200" y2="150" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="145" x2="200" y2="145" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="160" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >NA__Red_deer_FJ402869_1_Cervus_elaphus_voucher_PL-IGAB-ZI34_cytochrome_oxidase_subunit_I__COI__gene__partial_cds__mitochondrial</text>
+<line x1="190" y1="160" x2="210" y2="160" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="145" x2="190" y2="160" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="180" y1="152.5" x2="190" y2="152.5" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="170" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >NA__Cattle_HQ860420_1_Bos_taurus_voucher_EDEN4-A4_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitochondrial</text>
+<line x1="180" y1="170" x2="210" y2="170" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="180" y1="152.5" x2="180" y2="170" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="170" y1="161.25" x2="180" y2="161.25" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="170" y1="130" x2="170" y2="161.25" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="160" y1="145.625" x2="170" y2="145.625" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="180" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >NA__Sheep_JF443355_1_Ovis_aries_voucher_HBL008387_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitochondrial</text>
+<line x1="160" y1="180" x2="210" y2="180" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="160" y1="145.625" x2="160" y2="180" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="150" y1="162.812" x2="160" y2="162.812" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="150" y1="120" x2="150" y2="162.812" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="140" y1="141.406" x2="150" y2="141.406" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="190" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >NA__Pig_KY661881_1_Sus_scrofa_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitochondrial</text>
+<line x1="140" y1="190" x2="210" y2="190" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="140" y1="141.406" x2="140" y2="190" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="130" y1="165.703" x2="140" y2="165.703" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="200" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Mysticeti__pygmy_Bride's_whale_JN190944_1_Balaenoptera_edeni_isolate_Whale-158-Anchuthengu_cytochrome_c_oxidase_subunit_1__CO1_</text>
+<line x1="200" y1="200" x2="210" y2="200" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="210" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Mysticeti__Fin_whale_EU496282_1_Balaenoptera_physalus_voucher_SEFSC_MMMGL_Bphy002_cytochrome_oxidase_subunit_I__cox1__gene__par</text>
+<line x1="200" y1="210" x2="210" y2="210" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="200" y1="200" x2="200" y2="210" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="205" x2="200" y2="205" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="220" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Mysticeti__sei_whale_EU496284_1_Balaenoptera_borealis_voucher_SEFSC_MMMGL_Bbor001_cytochrome_oxidase_subunit_I__cox1__gene__par</text>
+<line x1="190" y1="220" x2="210" y2="220" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="205" x2="190" y2="220" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="180" y1="212.5" x2="190" y2="212.5" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="230" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Mysticeti__Bryde's_whale_MH638371_1_Balaenoptera_brydei_cytochrome_c_oxidase_subunit_I__COI__gene__partial_cds__mitochondrial</text>
+<line x1="180" y1="230" x2="210" y2="230" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="180" y1="212.5" x2="180" y2="230" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="170" y1="221.25" x2="180" y2="221.25" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="240" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Mysticeti__Omura's_baleen_whale_KX254410_1_Balaenoptera_omurai_isolate_BRA_2010_09_10_cytochrome_oxidase_subunit_I__cox1__gene_</text>
+<line x1="170" y1="240" x2="210" y2="240" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="170" y1="221.25" x2="170" y2="240" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="160" y1="230.625" x2="170" y2="230.625" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="250" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Mysticeti__Gray_whale_MH046943_1_Eschrichtius_robustus_isolate_1_Chuk-Pen_2013_cytochrome_oxidase_subunit_1__COI__gene__partial</text>
+<line x1="160" y1="250" x2="210" y2="250" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="160" y1="230.625" x2="160" y2="250" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="150" y1="240.312" x2="160" y2="240.312" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="260" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Franciscana_EU496358_1_Pontoporia_blainvillei_voucher_SEFSC_MMMGL_2435_cytochrome_oxidase_subunit_I__cox1__gene__pa</text>
+<line x1="150" y1="260" x2="210" y2="260" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="150" y1="240.312" x2="150" y2="260" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="130" y1="250.156" x2="150" y2="250.156" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="130" y1="165.703" x2="130" y2="250.156" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="120" y1="207.93" x2="130" y2="207.93" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="270" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Indo-Pacific_Finless_Porpoise_KP993088_1_Neophocaena_phocaenoides_isolate_NeP3_cytochrome_oxidase_subunit_I__COX1__</text>
+<line x1="200" y1="270" x2="210" y2="270" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="280" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Dall's_Porpoise_JF442791_1_Phocoenoides_dalli_voucher_UAM_Mamm_90178_cytochrome_oxidase_subunit_1__COI__gene__parti</text>
+<line x1="200" y1="280" x2="210" y2="280" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="200" y1="270" x2="200" y2="280" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="120" y1="275" x2="200" y2="275" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="120" y1="207.93" x2="120" y2="275" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="110" y1="241.465" x2="120" y2="241.465" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="290" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Stejneger's_Beaked_Whale_JF442786_1_Mesoplodon_stejnegeri_voucher_UAM_Mamm_90300_cytochrome_oxidase_subunit_1__COI_</text>
+<line x1="200" y1="290" x2="210" y2="290" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="300" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Gervais'_Beaked_Whale_EU496313_1_Mesoplodon_europaeus_voucher_SEFSC_MMMGL_Meur002_cytochrome_oxidase_subunit_I__cox</text>
+<line x1="200" y1="300" x2="210" y2="300" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="200" y1="290" x2="200" y2="300" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="295" x2="200" y2="295" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="310" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Boutu_EU496359_1_Inia_geoffrensis_voucher_SEFSC_MMMGL_Igeo357_cytochrome_oxidase_subunit_I__cox1__gene__partial_cds</text>
+<line x1="190" y1="310" x2="210" y2="310" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="295" x2="190" y2="310" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="110" y1="302.5" x2="190" y2="302.5" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="110" y1="241.465" x2="110" y2="302.5" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="100" y1="271.982" x2="110" y2="271.982" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="320" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Killer_Whale_EU496323_1_Orcinus_orca_voucher_SEFSC_MMMGL_Oorc001_cytochrome_oxidase_subunit_I__cox1__gene__partial_</text>
+<line x1="100" y1="320" x2="210" y2="320" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="100" y1="271.982" x2="100" y2="320" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="90" y1="295.991" x2="100" y2="295.991" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="330" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Indo-Pacific_Bottlenose_Dolphin_EU496330_1_Tursiops_aduncus_voucher_SEFSC_MMMGL_Tadu001_cytochrome_oxidase_subunit_</text>
+<line x1="200" y1="330" x2="210" y2="330" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="340" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Indo-Pacific_Humpbacked_Dolphin_EU496345_1_Sousa_chinensis_voucher_SEFSC_MMMGL_Schi006_cytochrome_oxidase_subunit_I</text>
+<line x1="200" y1="340" x2="210" y2="340" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="200" y1="330" x2="200" y2="340" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="90" y1="335" x2="200" y2="335" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="90" y1="295.991" x2="90" y2="335" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="80" y1="315.496" x2="90" y2="315.496" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="80" y1="110" x2="80" y2="315.496" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="70" y1="212.748" x2="80" y2="212.748" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="350" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Pygmy_Killer_Whale_EU496290_1_Feresa_attenuata_voucher_SEFSC_MMMGL_Fatt002_cytochrome_oxidase_subunit_I__cox1__gene</text>
+<line x1="70" y1="350" x2="210" y2="350" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="70" y1="212.748" x2="70" y2="350" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="60" y1="281.374" x2="70" y2="281.374" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="360" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Melon-Headed_Whale_EU496294_1_Peponocephala_electra_voucher_SEFSC_MMMGL_Pele004_cytochrome_oxidase_subunit_I__cox1_</text>
+<line x1="60" y1="360" x2="210" y2="360" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="60" y1="281.374" x2="60" y2="360" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="50" y1="320.687" x2="60" y2="320.687" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="370" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Long-Finned_Pilot_Whale_EU496306_1_Globicephala_melas_voucher_SEFSC_MMMGL_Gmel212_cytochrome_oxidase_subunit_I__cox</text>
+<line x1="50" y1="370" x2="210" y2="370" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="50" y1="320.687" x2="50" y2="370" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="40" y1="345.343" x2="50" y2="345.343" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="40" y1="100" x2="40" y2="345.343" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="30" y1="222.672" x2="40" y2="222.672" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="380" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Sperm_Whale_KF281694_1_Physeter_catodon_voucher_pm160804_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mito</text>
+<line x1="200" y1="380" x2="210" y2="380" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="390" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >NA__Peter's_Duiker_HQ644090_1_Cephalophus_callipygus_voucher_N22138_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__mitoc</text>
+<line x1="200" y1="390" x2="210" y2="390" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="200" y1="380" x2="200" y2="390" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="385" x2="200" y2="385" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="400" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Dwarf_Sperm_Whale_MF929074_1_Kogia_sima_cytochrome_oxidase_subunit_1__COI__gene__partial_cds</text>
+<line x1="190" y1="400" x2="210" y2="400" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="190" y1="385" x2="190" y2="400" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="30" y1="392.5" x2="190" y2="392.5" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="30" y1="222.672" x2="30" y2="392.5" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="20" y1="307.586" x2="30" y2="307.586" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="410" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Saddleback_Dolphin_KF281612_1_Delphinus_delphis_voucher_Dd130112_cytochrome_oxidase_subunit_1__COI__gene__partial_c</text>
+<line x1="20" y1="410" x2="210" y2="410" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="20" y1="307.586" x2="20" y2="410" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="10" y1="358.793" x2="20" y2="358.793" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="10" y1="60" x2="10" y2="358.793" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="0" y1="209.396" x2="10" y2="209.396" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="420" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >NA__White-Tailed_Deer_JF443326_1_Odocoileus_virginianus_voucher_HLC-10634_cytochrome_oxidase_subunit_1__COI__gene__partial_cds_</text>
+<line x1="200" y1="420" x2="210" y2="420" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="430" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >NA__Chinese_Water_Deer_DQ379323_1_Hydropotes_inermis_cytochrome_oxidase_subunit_II__COII__gene__partial_cds__mitochondrial</text>
+<line x1="200" y1="430" x2="210" y2="430" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="200" y1="420" x2="200" y2="430" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="0" y1="425" x2="200" y2="425" style="stroke:rgb(0,0,0);stroke-width:1" />
+<text x="210" y="440" rotate="0" style="font-family:Courier;font-style:;font-weight:;font-size:12px;dominant-baseline:middle;text-anchor:start;fill:rgb(0,0,0)" >Odonticeti__Risso's_Dolphin_KF281614_1_Grampus_griseus_voucher_Gg120708_cytochrome_oxidase_subunit_1__COI__gene__partial_cds__m</text>
+<line x1="0" y1="440" x2="210" y2="440" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="0" y1="209.396" x2="0" y2="440" style="stroke:rgb(0,0,0);stroke-width:1" />
+<line x1="0" y1="324.698" x2="0" y2="324.698" style="stroke:rgb(0,0,0);stroke-width:1" />
 </g>
 </g>
 </svg>

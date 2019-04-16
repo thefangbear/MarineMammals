@@ -20,7 +20,7 @@ input.sequence.format=Fasta(extended=false, strictNames=false)
 # all, nogap or complete (=only resolved chars)
 input.sequence.sites_to_use = complete
 # Specify a maximum amount of gaps: may be an absolute number or a percentage.
-input.sequence.max_gap_allowed = 0%
+input.sequence.max_gap_allowed = 100%
 init.tree = random
 #input.tree.file = ../Data/$(DATA).dnd
 #input.tree.format = Newick
